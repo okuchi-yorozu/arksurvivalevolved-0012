@@ -29,6 +29,9 @@
 |5|[Backpack](https://steamcommunity.com/sharedfiles/filedetails/?id=736236773)|バックパックが作れるよ！|
 |6|[Upgrade Station v1.8i](https://steamcommunity.com/sharedfiles/filedetails/?id=821530042)|道具の品質を上げられるようになる|
 |7|[HG Stacking Mod 5000-90 V316](https://steamcommunity.com/sharedfiles/filedetails/?id=849985437)|素材アイテムをたくさん持てるようになる|
+|8|[Ammo Switcher](https://steamcommunity.com/sharedfiles/filedetails/?id=1439559887)|インベントリを開くことなく弾薬の種類を切り替えられるようにする|
+|9|[All Dinos Allow Guns](https://steamcommunity.com/sharedfiles/filedetails/?id=1440414363)|恐竜に乗りながら、手に銃や武器などを装備できるようにする|
+|10|[Builder's Improvements (vanilla improved)](https://steamcommunity.com/sharedfiles/filedetails/?id=854186603)|構造物のスナップポイントを増やす|
 
 #### Settings
 ##### ルール
@@ -40,7 +43,7 @@
 - マップに自分の場所を表示する: true
 ##### プレイヤー
 - PvEでの飛行運搬を許可する: true
-- 取得経験値: 2倍
+- 取得経験値: 3倍
 - 水分消費速度: 0.8倍
 - 食料消費速度: 0.8倍
 ##### 恐竜
@@ -49,12 +52,13 @@
 - 気絶値回復速度（野生）: 0.5倍
 - 手渡しテイムの餌付け間隔: 0.5倍
 - ブリーディング
-  - mating speed: 3倍
-  - 孵化時間: 10倍
-  - 成熟期間: 10倍
+  - 交配間隔: 0.1倍
+  - mating speed: 5倍
+  - 孵化時間: 50倍
+  - 成熟期間: 150倍
 - 恐竜への刷り込み
-  - Imprint Amount Scale: 3倍
-  - おねだり間隔: 3倍
+  - Imprint Amount Scale: 30倍
+  - おねだり間隔: 0.01倍
   - おねだり猶予期間: 3倍
 ##### 環境
 - テイム速度: 3倍
